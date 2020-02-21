@@ -1,0 +1,67 @@
+body{
+    font-family: 'PT Serif' ;
+    
+    margin-right: 0;
+    
+
+}
+h1{
+    font-size: 40px;
+    color: rgba(243, 79, 134, 0.979);
+    font-weight: 900;
+}
+
+h2{
+    font-size: 35px;
+  
+}
+
+p{
+ color: dimgray;
+
+}
+
+}
+section{
+    height:50%;
+    padding-bottom: 150px;
+    border: 20px solid green;
+
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+
+
+}
+.half-width{
+    width:40%;
+    float: left  ;
+    margin-left: 6%; 
+    margin-top: 5%;
+    padding-left: 4%
+   ;
+}
+.half-width img{
+    
+    width: 100%;
+    margin-right: 5%;
+    padding-right: 10px;
+    
+   
+    
+}
+.minimize{
+    width:300px;
+    height: 600px;
+}
